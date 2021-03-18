@@ -1,6 +1,2 @@
-Criação da API
+Fiz o projeto apenas usando NodeJS e HTML, CSS e JS puro
 
-criei uma rota para acessa a API
-Servir a API
-Habilitar o CORS 
-Habilitar o nodemon para reiniciar o server
